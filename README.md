@@ -1,3 +1,9 @@
-# Assessing predation in online degree programs with Beginning Postsecondary Student survey data.
+# Assessing Online Education with Beginning Postsecondary Students (BPS) Survey Data
 
-Assessing predation in online degree programs with Beginning Postsecondary Student survey data.
+### By Amber Villalobos
+
+Summary: This analysis assesses if online degree programs are predatory with Beginning Postsecondary Student survey data.
+
+**Data**
+  - BPS Student File
+  - BPS School Information File
