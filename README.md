@@ -2,7 +2,7 @@
 
 ### By Amber Villalobos
 
-Summary: This analysis assesses if online degree programs are predatory with Beginning Postsecondary Student survey data.
+Summary: We analyze if online degree programs are predatory with Beginning Postsecondary Student survey data.
 
 **Data**
   - BPS Student File
